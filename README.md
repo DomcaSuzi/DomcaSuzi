@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Hello world](https://media0.giphy.com/media/fqbr4NqjewYxcswliK/giphy.gif?cid=790b7611ef748d53ea5caf584a96a75e2c5b35100ad2b936&rid=giphy.gif&ct=g)
 
 <!--
 **DomcaSuzi/DomcaSuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
